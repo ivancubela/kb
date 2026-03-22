@@ -49,7 +49,7 @@ class _MyHomePageState extends State<MyHomePage> {
         child: Column(
           mainAxisAlignment: .center,
           children: [
-            const Text('Ja bih napisao nešto drugo:'),
+            const Text('Ovo je neki moćni tekst:'),
             Text(
               '$_counter',
               style: Theme.of(context).textTheme.headlineMedium,
