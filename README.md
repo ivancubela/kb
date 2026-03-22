@@ -1,4 +1,4 @@
-# kb
+# KB - Najjači projekt ikad
 
 A new Flutter project.
 
